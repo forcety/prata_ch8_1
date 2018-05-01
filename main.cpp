@@ -32,6 +32,9 @@ int main(int argc, char *argv[])
     ShowStr("Second", 1);
     ShowStr("Third", 1);
 
+    // some new code ..
+    // end if new code.
+
     std::cout << "Finish program.\n";
     return a.exec();
 }
